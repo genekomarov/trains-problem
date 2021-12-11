@@ -1,2 +1,1 @@
-const printHelloWorld = require('./bin/example').default;
-printHelloWorld();
+require('./bin/Project');
